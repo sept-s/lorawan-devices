@@ -2195,3 +2195,13 @@ vendors:
     name: SIA Mikrotīkls
     vendorID: 980
     website: https://mikrotik.com
+
+  - id: sept-s
+    name: Sept-S
+    description: Safety that never sleeps
+    vendorID: 1115
+    website: https://www.sieben-s.com
+    logo: sept-s-logo.svg
+    social:
+      linkedin: https://www.linkedin.com/company/sept-s
+      github: sept-s

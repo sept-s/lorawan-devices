@@ -1,0 +1,10 @@
+endDevices:
+  - tg563a
+  # Unique identifier of the end device (lowercase, alphanumeric with dashes, max 36 characters)
+
+profileIDs:
+  '22074':
+    endDeviceID: 'tg563a'
+    firmwareVersion: '1.0'
+    hardwareVersion: '1.0'
+    region: 'EU863-870'
