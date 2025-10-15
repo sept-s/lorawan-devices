@@ -2157,6 +2157,17 @@ vendors:
       #instagram: radionodekorea
       github: radionode
 
+<<<<<<< Updated upstream
   - id: sensus
     name: Sensus GmbH Ludwigshafen
     vendorID: 1170
+=======
+  - id: sept-s
+    name: Sept-S
+    description: Safety that never sleeps
+    vendorID: 1115
+    website: https://www.sieben-s.com
+    social:
+      linkedin: https://www.linkedin.com/company/sept-s
+      github: sept-s
+>>>>>>> Stashed changes
